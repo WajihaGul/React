@@ -1,0 +1,12 @@
+.divhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    width: 430px;
+    margin-left: 850px;
+    margin-right: 850px;
+    border-radius: 24px;
+    background-color: #a7bbeb;
+}
