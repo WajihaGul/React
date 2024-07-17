@@ -1,8 +1,8 @@
 import "./App.css";
-import Project1 from "./Components/Project1/Project1";
+import Project3 from "./Components/Project3/Project3";
 
 function App() {
-  return <Project1 />;
+  return <Project3 />;
 }
 
 export default App;
